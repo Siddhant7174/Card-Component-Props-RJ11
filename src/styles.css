@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+}
+.main{
+    background-color: #F94A29;
+    height:100vh;
+    padding-top: 100px;
+    padding-inline: 100px;
+    max-width: 100%;
+}
+.block-1{
+    padding-block:10px;
+}
